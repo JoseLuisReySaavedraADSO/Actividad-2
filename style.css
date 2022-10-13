@@ -1,19 +1,19 @@
 .estilo{
-    border: 10px dashed rgb(7, 109, 36);
+    border: 10px dashed rgb(96, 2, 117);
     border-radius: 25px;
-    background-color: rgb(178, 255, 181);
+    background-color: rgb(215, 178, 255);
     width: max-content;
     font-size: 10mm;
     padding: 0mm 10mm;
 }
 .color{
-    background-color: rgb(140, 252, 120);
+    background-color: rgb(217, 120, 252);
 }
 .letra{
     font-size: 10mm;
 }
 .title{
-    color: rgb(2, 117, 19);
+    color: rgb(96, 2, 117);
     font-size: 20mm;
 }
 .imge{
