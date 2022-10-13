@@ -1,18 +1,20 @@
 .estilo{
-    border: 10px dashed rgb(255, 197, 61);
+    border: 10px dashed rgb(91, 59, 250);
     border-radius: 25px;
-    background-color: rgb(255, 250, 92);
+    background-color: rgb(76, 120, 225);
     width: max-content;
     font-size: 10mm;
     padding: 0mm 10mm;
 }
 .color{
-    background-color: rgb(255, 255, 184);
+    background-image: url(https://i.pinimg.com/originals/69/ca/d4/69cad4b7a425f8814c2753078c3fb3dd.png);
 }
 .letra{
     font-size: 10mm;
+    color: white;
 }
-.title{
-    color: rgb(255, 197, 61);
-    font-size: 20mm;
+.imge{
+    max-width:5cm;
+    float: left;
+    margin: 1cm 0 0 2mm;
 }
